@@ -1,7 +1,7 @@
 This code is the implementation of the 3D steganalytic feature set,
 LFS76, proposed in "Steganalysis of 3D Objects Using Statistics of Local Feature Sets"
 Information Sciencecs, Volumes 415–416, November 2017, Pages 85-99
-by the authors of Zhenyu Li and Adrian G. Bors
+by the authors of Zhenyu Li and Adrian G. Bors. Please cite this paper if you use this code for academic research.
 
 The code was implemented by Zhenyu Li, a PhD student from University of York, 
 under the supervison of Dr. Adrian G. Bors (https://github.com/AdrianBors).
